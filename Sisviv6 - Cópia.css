@@ -1,0 +1,850 @@
+﻿.bodyMotor
+{
+    background-position: left top;
+    background-attachment: scroll;
+    background-image: url(images/fundo-metal.png);
+    background-repeat: no-repeat;
+}
+
+.bodyECVConsult
+{
+    background-attachment: fixed;
+    background-image: url(images/FundoECVConsult.jpg);
+    background-repeat: repeat;
+}
+
+.bottom
+{
+    background-attachment: scroll;
+    background-image: url(images/bottom-v6Metal.png);
+    background-repeat: repeat;
+    background-position: center top;
+}
+
+/*menu lateral*/
+
+.fundolog
+{
+    background-attachment: scroll;
+    background-image: url(menu/fundolog.png);
+    background-repeat: repeat;
+    background-position: center top;
+}
+
+.fundomenu
+{
+    background-attachment: scroll;
+    background-image: url(menu/fundomenu.png);
+    background-repeat: repeat;
+    background-position: center top;
+}
+
+
+.fundomenuEnquete
+{
+    background-attachment: scroll;
+    background-image: url(menu/fundomenu.png);
+    background-repeat: repeat;
+    background-position: center top;
+    font-weight: bold; /*font-family: tahoma, Helvetica, sans-serif; 	font-size: 11px; 	font-weight:bold;*/
+}
+
+
+/*.botaomenu
+{
+    background-attachment: scroll;
+    background-image: url(menu/botao.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    text-align: left;
+    color: #FFFFFF;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    height: 80px;
+    padding: 3px 0px 0px 15px;
+    vertical-align: middle;
+}
+
+.botaomenu2
+{
+    background-attachment: scroll;
+    background-image: url(menu/botao2.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    height: 30px;
+    padding: 0px 0px 0px 40px;
+}
+*/
+.botaomenuEnquente
+{
+    background-attachment: scroll;
+    background-image: url(menu/botao.Enquete.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 0px 0px 0px 40px;
+}
+
+.menuEnquente
+{
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+/*.grupoMenu
+{
+    font-family: Verdana;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #CCCCCC;
+    padding: 0px 0px 0px 5px;
+}
+
+.itemMenu
+{
+    font-family: Verdana;
+    font-weight: bold;
+    background-color: #DDDDDD;
+    padding: 0px 0px 0px 15px;
+}
+.condicaoitemMenu
+{
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 10px;
+    font-style: italic;
+    background-color: #F0F0F0;
+    font-weight: normal;
+    padding: 0px 0px 0px 30px;
+}*/
+
+.menuTarefasPiscaVerde
+{
+    background-image: url(menu/piscaVerde.gif);
+    background-repeat: repeat;
+    font-size: 11px;
+}
+.menuTarefasPiscaLaranja
+{
+    background-image: url(menu/piscaLaranja.gif);
+    background-repeat: repeat;
+    font-size: 11px;
+}
+.menuTarefasPiscaAzul
+{
+    background-image: url(menu/piscaAzul.gif);
+    background-repeat: repeat;
+    font-size: 11px;
+}
+.menuTarefasPiscaAmarelo
+{
+    background-image: url(menu/piscaAmarelo.gif);
+    background-repeat: repeat;
+    font-size: 11px;
+}
+.menuTarefasNaoPisca
+{
+    background-image: url(menu/naoPisca.png);
+    background-repeat: repeat;
+    font-size: 11px;
+}
+
+.submenuEnquete
+{
+    background-attachment: scroll;
+    background-image: url(menu/submenu.Enquete.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 40px;
+}
+
+
+.bottomVisualizar
+{
+    cursor: pointer;
+    background-color: transparent;
+}
+
+
+.menuPerfil
+{
+    text-align: left;
+    color: #000000;
+    background-color: #CCCCCC;
+    font-family: tahoma, Helvetica, sans-serif;
+    height: 40px;
+    font-size: 11px;
+    padding: 0px 2px 2px 0px;
+}
+
+.box
+{
+    background-attachment: scroll;
+    background-image: url(menu/box.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 0px 0px 0px 5px;
+}
+
+/*fim menu lateral*/
+
+/*conteudo*/
+.fundoconteudo
+{
+    /*background-attachment: scroll;
+    background-image: url(conteudo/fundoconteudo.png);
+    background-repeat: repeat-y;
+    background-position: center top;*/
+}
+
+/*.postit
+{
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    background-color: #E8E8E8;
+    padding: 10px 10px 10px 10px;
+}
+/*.textopostit
+{
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+*/
+.mensagem
+{     
+    padding: 5px 0px 0px 10px; height: 43px;
+    background-attachment: scroll;
+    *background-image: url(images/atencao_02.png);
+    background-repeat: repeat-x;
+    background-position: center top;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold; vertical-align: middle;
+       }
+
+.mensagem1
+{
+    background-attachment: scroll;
+    *background-image: url(images/atencao_01.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.mensagem2
+{
+    background-attachment: scroll;
+    *background-image: url(images/atencao_03.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.fundomenu01
+{
+    background-attachment: scroll;
+    background-image: url(conteudo/fundomenu01.jpg);
+    background-repeat: repeat-x;
+    background-position: center top;
+}
+
+/*.suporte
+{
+    width: 100%;
+    height: 100%;
+    background-attachment: scroll;
+    background-image: url(conteudo/suporte-tickets_04.jpg);
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-color: #CCCCCC;
+    padding: 0px 0px 0px 0x;
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+}
+.suporte2
+{
+    background-attachment: scroll; /*background-image: url(conteudo/suporte-tickets_04.jpg); 
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+*/
+.abaAtivada
+{
+    background-image: url(conteudo/aba1.jpg);
+    background-repeat: no-repeat;
+}
+
+.abaDesativada
+{
+    background-image: url(conteudo/aba2.jpg);
+    background-repeat: no-repeat;
+}
+
+.ocr
+{
+    background-attachment: scroll;
+    background-image: url(conteudo/fundoOCR.png);
+    background-repeat: repeat;
+    background-position: center top;
+    /*padding: 5px 5px 0px 10px;*/
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+}
+.fundobtocr
+{
+    background-attachment: scroll;
+    background-image: url(conteudo/fundoBTocr.png);
+    background-repeat: repeat-x;
+    background-position: center center;
+}
+
+.top10
+{
+    width: 100%;
+    height: 21px;
+    background-attachment: scroll;
+    background-image: url(conteudo/top10.jpg);
+    background-repeat: repeat-x;
+    background-position: center midlle;
+    padding: 0px 0px 0px 10px;
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.graficos
+{
+    height: 161px;
+    background-attachment: scroll;
+    background-image: url(conteudo/graficos_02.png);
+    background-position: center top;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    color: #000000;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+
+
+.fundoCorpo
+{
+    background-attachment: scroll;
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.topoCorpo
+{
+    background-attachment: scroll;
+    background-image: url(/metal/topo.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.traco
+{
+    background-attachment: scroll;
+    background-image: url(traco.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.textomenu
+{
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+}
+
+.cont2
+{
+    background-attachment: scroll;
+    background-image: url(images/fundoconteudo2_02.png);
+    background-repeat: repeat-x;
+    background-position: center top;
+}
+
+
+/* ajax__tab_xp-theme theme */
+.ajax__tab_xp-theme .ajax__tab_header
+{
+    font-family: verdana,tahoma,helvetica;
+    font-size: 11px;
+    background: url(xp/tab-line.gif) repeat-x bottom;
+}
+.ajax__tab_xp-theme .ajax__tab_header .ajax__tab_outer
+{
+    padding-right: 4px;
+    background: url(xp/tab-right.gif) no-repeat right;
+    height: 20px;
+}
+.ajax__tab_xp-theme .ajax__tab_header .ajax__tab_inner
+{
+    padding-left: 3px;
+    background: url(xp/tab-left.gif) no-repeat;
+}
+.ajax__tab_xp-theme .ajax__tab_header .ajax__tab_tab
+{
+    height: 20px;
+    padding: 4px;
+    margin: 0;
+    background: url(xp/tab.gif) repeat-x;
+}
+.ajax__tab_xp-theme .ajax__tab_hover .ajax__tab_outer
+{
+    background: url(xp/tab-hover-right.gif) no-repeat right;
+}
+.ajax__tab_xp-theme .ajax__tab_hover .ajax__tab_inner
+{
+    background: url(xp/tab-hover-left.gif) no-repeat;
+}
+.ajax__tab_xp-theme .ajax__tab_hover .ajax__tab_tab
+{
+    background: url(xp/tab-hover.gif) repeat-x;
+}
+.ajax__tab_xp-theme .ajax__tab_active .ajax__tab_outer
+{
+    background: url(xp/tab-active-right.gif) no-repeat right;
+}
+.ajax__tab_xp-theme .ajax__tab_active .ajax__tab_inner
+{
+    background: url(xp/tab-active-left.gif) no-repeat;
+}
+.ajax__tab_xp-theme .ajax__tab_active .ajax__tab_tab
+{
+    background: url(xp/tab-active.gif) repeat-x;
+}
+.ajax__tab_xp-theme .ajax__tab_body
+{
+    font-family: verdana,tahoma,helvetica;
+    font-size: 10pt;
+    border: 1px solid #999999;
+    border-top: 0;
+    padding: 8px;
+    background-color: #ffffff;
+}
+
+
+/* ajax__tab_yuitabview-theme theme (img/yui/sprite.png) */
+.ajax__tab_yuitabview-theme .ajax__tab_header
+{
+    font-family: arial,helvetica,clean,sans-serif;
+    font-size: small;
+    border-bottom: solid 5px #2647a0;
+}
+.ajax__tab_yuitabview-theme .ajax__tab_header .ajax__tab_outer
+{
+    background: url(img/yui/sprite.png) #d8d8d8 repeat-x;
+    margin: 0px 0.16em 0px 0px;
+    padding: 1px 0px 1px 0px;
+    vertical-align: bottom;
+    border: solid 1px #a3a3a3;
+    border-bottom-width: 0px;
+}
+.ajax__tab_yuitabview-theme .ajax__tab_header .ajax__tab_tab
+{
+    color: #000;
+    padding: 0.35em 0.75em;
+    margin-right: 0.01em;
+}
+.ajax__tab_yuitabview-theme .ajax__tab_hover .ajax__tab_outer
+{
+    background: url(img/yui/sprite.png) #bfdaff repeat-x left -1300px;
+}
+.ajax__tab_yuitabview-theme .ajax__tab_active .ajax__tab_tab
+{
+    color: #fff;
+}
+.ajax__tab_yuitabview-theme .ajax__tab_active .ajax__tab_outer
+{
+    background: url(img/yui/sprite.png) #2647a0 repeat-x left -1400px;
+}
+.ajax__tab_yuitabview-theme .ajax__tab_body
+{
+    font-family: verdana,tahoma,helvetica;
+    font-size: 10pt;
+    padding: 0.25em 0.5em;
+    background-color: #edf5ff;
+    border: solid 1px #808080;
+    border-top-width: 0px;
+}
+
+/* ajax__tab_technorati-theme theme */
+.ajax__tab_technorati-theme .ajax__tab_header
+{
+    font-family: "Helvetica Neue" , Arial, Sans-Serif;
+    background: url(img/technorati/tab-line.png) repeat-x bottom;
+    font-size: 12px;
+    display: block;
+}
+.ajax__tab_technorati-theme .ajax__tab_header .ajax__tab_outer
+{
+    background: url(img/technorati/tab.png) no-repeat left top;
+    border-color: #222;
+    color: #222;
+    padding-left: 10px;
+    margin-right: 3px;
+}
+.ajax__tab_technorati-theme .ajax__tab_header .ajax__tab_inner
+{
+    background: url(img/technorati/tab.png) no-repeat right top;
+    border-color: #666;
+    color: #666;
+    padding: 3px 10px 2px 0px;
+}
+.ajax__tab_technorati-theme .ajax__tab_hover .ajax__tab_inner
+{
+    color: #000000;
+}
+.ajax__tab_technorati-theme .ajax__tab_active .ajax__tab_outer
+{
+    background: url(img/technorati/tab.png) no-repeat 0pt -40px;
+    border-bottom-color: #ffffff;
+}
+.ajax__tab_technorati-theme .ajax__tab_active .ajax__tab_inner
+{
+    background: url(img/technorati/tab.png) no-repeat right -40px;
+    color: #000000;
+    border-color: #333;
+}
+.ajax__tab_technorati-theme .ajax__tab_body
+{
+    font-family: verdana,tahoma,helvetica;
+    font-size: 10pt;
+    padding: 8px;
+    background-color: #ffffff;
+    border: solid 1px #d7d7d7;
+    border-top-width: 0;
+}
+
+/* ajax__tab_msngallery-theme theme */
+.ajax__tab_msngallery-theme .ajax__tab_header
+{
+    background: url(img/msngallery/tab-line.png) repeat-x bottom;
+    font-size: 12px;
+    display: block;
+}
+.ajax__tab_msngallery-theme .ajax__tab_header .ajax__tab_outer
+{
+    border: solid 1px #D7DCE1;
+    padding: 1px 1px 0px 1px;
+    border-bottom: solid 2px #A8D4D9;
+    background-color: #edf2fb;
+}
+.ajax__tab_msngallery-theme .ajax__tab_header .ajax__tab_tab
+{
+    padding: 6px 10px 6px 10px;
+    color: #444444;
+    width: 117px;
+    display: block;
+    text-align: center;
+}
+.ajax__tab_msngallery-theme .ajax__tab_header .ajax__tab_tab img
+{
+    height: 24px;
+    width: 24px;
+}
+.ajax__tab_msngallery-theme .ajax__tab_header .ajax__tab_tab div
+{
+    font-family: Verdana, Arial, Sans-Serif;
+    font-weight: bold;
+    white-space: nowrap;
+    line-height: 145%;
+    font-size: 92%;
+}
+.ajax__tab_msngallery-theme .ajax__tab_active .ajax__tab_outer
+{
+    padding: 0px 0px 0px 0px;
+    border: solid 2px #A8D4D9;
+    border-bottom-color: #ffffff;
+    background-color: #ffffff;
+}
+.ajax__tab_msngallery-theme .ajax__tab_body
+{
+    font-family: verdana,tahoma,helvetica;
+    font-size: 10pt;
+    padding: 8px;
+    background-color: #ffffff;
+    border: solid 2px #A8D4D9;
+    border-top-width: 0;
+}
+
+/* ajax__tab_ie-theme theme */
+.ajax__tab_ie-theme .ajax__tab_header
+{
+    padding-left: 5px;
+}
+.ajax__tab_ie-theme .ajax__tab_header .ajax__tab_tab
+{
+    margin-right: 0px;
+    background: url(img/ie/tab_unselected.gif);
+    width: 116px;
+    padding: 9px 0px 3px 0px;
+    text-align: center;
+    color: #006699;
+    font-family: verdana;
+    font-size: 13px;
+    display: block;
+}
+.ajax__tab_ie-theme .ajax__tab_active .ajax__tab_tab
+{
+    padding: 6px 0px 3px 0px;
+    background: url(img/ie/tab_selected.gif);
+}
+.ajax__tab_ie-theme .ajax__tab_body
+{
+    background: url(img/ie/ie_tabbacker_720x296.jpg) no-repeat;
+    font-size: 13px;
+    font-family: verdana;
+    height: 296px;
+    width: 716px;
+}
+.ajax__tab_ie-theme .ajax__tab_body div
+{
+    padding: 8px;
+}
+
+
+.fundoconteudo
+{
+    background-attachment: scroll;
+    background-image: url(images/fundoconteudo2_05.png);
+    background-repeat: repeat;
+    background-position: center top;
+}
+
+
+.cont1
+{
+    background-attachment: scroll;
+    background-image: url(images/fundoconteudo2_04.png);
+    background-repeat: repeat-y;
+    background-position: center top;
+}
+.cont2
+{
+    background-attachment: scroll;
+    background-image: url(images/fundoconteudo2_02.png);
+    background-repeat: repeat-x;
+    background-position: center top;
+}
+.cont3
+{
+    background-attachment: scroll;
+    background-image: url(images/fundoconteudo2_06.png);
+    background-repeat: repeat-y;
+    background-position: center top;
+}
+.cont4
+{
+    background-attachment: scroll;
+    background-image: url(images/fundoconteudo2_08.png);
+    background-repeat: repeat-x;
+    background-position: center top;
+}
+
+
+
+.post07
+{
+    background-attachment: scroll;
+    background-image: url(postit/postit_07-fundo.png);
+    background-repeat: repeat-y;
+    background-position: center top;
+}
+.post10
+{
+    background-attachment: scroll;
+    background-image: url(postit/fundo-postit_10.png);
+    background-repeat: repeat-x;
+    background-position: center top;
+}
+.post03
+{
+    background-attachment: scroll;
+    background-image: url(postit/fundo-postit_03.png);
+    background-repeat: repeat-x;
+    background-position: center;
+}
+.post05
+{
+    background-attachment: scroll;
+    background-image: url(postit/postit_05.png);
+    background-repeat: repeat-y;
+    background-position: center top;
+}
+
+/*--------------------------------GRID----------------------------------------*/
+
+.grid
+{
+    font-size: 11px;
+    width: 100%;
+    background-color: #FFFFFF;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #E0E0E0;
+    color: #333333;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.gridAlternate
+{
+    color: #333333;
+    background-color: White;
+}
+
+/*.gridRow
+{
+    color: #333333;
+    background-color: #F5F5F5;
+}*/
+.tituloCamposGrid
+{
+    background-color:White;
+    font-size: 12px;
+    height: 30px;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 10px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #000000;
+    font-family: Arial;
+    border: solid 1px #EAEAEA;
+
+}
+.icon-grid
+{
+    width: 16px;
+    text-align: center;
+}
+
+.link-menu-grupo { display: block;}
+
+ 
+ /*----------------------------Secondary Pages-------------------------*/
+ .tituloCampos
+{
+    /*text-align:left; 	background-color:#C4E1E9; 	height: 20px;*/
+    background-position: left top;
+    text-align: right;
+    height: 12px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    vertical-align: bottom;
+    font-weight: bold;
+    font-size: 12px;
+    padding-right: 10px;
+}
+
+ .tituloCampos2
+{
+    /*text-align:left; 	background-color:#C4E1E9; 	height: 20px;*/
+    background-position: left top;
+    text-align: right;
+    height: 12px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    padding-left: 20px;
+    padding-bottom: 9px;
+    vertical-align: bottom;
+    font-weight: bold;
+    font-size: 12px;
+    padding-right: 10px;
+}
+
+.fundoCampos
+{
+    vertical-align: top;
+    height: 15px;
+}
+
+.legendapag
+{
+    background-color: #FFFFFF; 
+    border: 1px solid #dbdbdb;
+}
+
+/*----------------------------Anpevi Table--------------------------------*/
+.suporte2
+{
+    background-attachment: scroll; /*background-image: url(conteudo/suporte-tickets_04.jpg); */
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+}
+.positiontxt10
+{
+    float:right;
+    padding: 5px;
+   
+ }
+ 
+ .fundotab1
+{
+    background-color: #ffffff;
+    height: 26px;
+}
+
+ .gridetab1
+{
+   border:1px solid #dbdbdb;
+}
+
+.displayInline 
+{
+    display: inline !important;
+}
+
+.width50
+{
+    width: 50%;
+}
