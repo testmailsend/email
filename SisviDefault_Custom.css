@@ -1,0 +1,123 @@
+﻿/* Global */
+.alert-info {
+    color:#31708f !important;
+}
+.alert-success {
+    color: #3c763d !important;
+}
+.alert-warning {
+    color: #8A6D3C !important;
+}
+.alert-danger {
+    color: #a94442 !important;
+}
+
+
+/* Barra Topo */
+.ButtonClass
+{
+    cursor: pointer;
+}
+
+.aIcone {
+    color: #ffffff;
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+}
+.aIcone:hover {
+    color: #444444;
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+}
+
+.aIconeUser {
+    color: #ffffff;
+    padding: 0 !important;
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+}
+.aIconeUser:hover {
+    color: #444444;
+    padding: 0 !important;
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+}
+
+.fa-lg {
+    font-size:1.7em !important;
+}
+.qtdeIcone {
+    margin-top: -8px;
+    position: absolute;
+    margin-left: -3px;
+}
+
+.div-valor-credito {
+    float: right;
+    height: 40px;
+    margin-right: 90px;
+}
+.valor-credito {
+    font-size: 14px !important;
+    font-weight: bold;
+    padding: 10px 0 10px 0;
+}
+
+
+/* Menu Principal */
+.menuPrincipalTopo {
+    text-align:right;
+}
+.menuPrincipalTopo .divEspacamento {
+    height:10px;
+    float: left;
+    width: 170px;
+    background-color: #4D4D4D;
+    margin-top: 20px;
+}
+.menuPrincipalTopo .divAbaMenu {
+    float: left;
+    background-color: #4D4D4D;
+    width: 50px;
+    border-radius: 8px 8px 0 0;
+    height: 30px;
+}
+.menuPrincipalTopo i {
+    color: #ffffff;
+    padding: 8px 15px 0 0;
+}
+
+.menuPrincipalTopo i:hover {
+    color: #bbbbbb;
+}
+
+.menuPrincipalRecolhidoTD {
+    text-align:right;
+    display:none;
+}
+.menuPrincipalReconhido {
+    -webkit-border-radius: 0 8px 8px 0;
+    -moz-border-radius: 0 8px 8px 0;
+    border-radius: 0 8px 8px 0;
+    border: 1px solid #4D4D4D;
+    width: 40px;
+    height: 30px;
+    background-color: #4D4D4D;
+}
+.menuPrincipalReconhido:hover {
+    background-color: #6D6D6E;
+}
+.menuPrincipalReconhido a {
+    width: 100%;
+    text-align: center;
+}
+.menuPrincipalReconhido a i {
+    color: #fff;
+    padding: 7px 0 0 0;
+    width: 100%;
+}
+
